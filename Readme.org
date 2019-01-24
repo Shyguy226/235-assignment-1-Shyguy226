@@ -1,3 +1,8 @@
+* Please fill out this section:
+** Name: 
+** GitHub username
+
+
 * Assignment 1
 
 ** Do not edit these files:
@@ -9,6 +14,7 @@ You can add them locally but don't git add or push them.
 
 ** Make changes in:
 - funcs.cpp, funcs.h to complete the assignment
+- Readme.org - add the specified info at the top
 
 
 ** Instructions
