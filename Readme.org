@@ -1,6 +1,6 @@
 * Please fill out this section:
-** Name: 
-** GitHub username
+** Name: Andrew Giannico
+** GitHub username: Shyguy226
 
 
 * Assignment 1
