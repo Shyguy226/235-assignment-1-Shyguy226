@@ -4,7 +4,7 @@ main: main.o funcs.o
 	g++ $(CXXFLAGS) -o main main.o funcs.o
 
 test: test.o funcs.o
-	g++ -o test test.o funcs.o
+	g++ $(CXXFLAGS) -o test test.o funcs.o
 
 test.o: test.cpp funcs.h
 
