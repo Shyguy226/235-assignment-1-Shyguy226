@@ -1,4 +1,4 @@
 #pragma once
 
-int fib (int num);
+int fact (int num);
 int sum (int a);
